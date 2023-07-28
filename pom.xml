@@ -47,7 +47,7 @@
    <repositories>
     <repository>
       <id>${artifactory.server.id}</id>
-      <url>http://44.210.129.92:8081/artifactory/example-repo-local</url>
+      <url>http://44.216.24.185:8081/artifactory/example-repo-local</url>
       <snapshots>
         <enabled>true</enabled>
       </snapshots>
